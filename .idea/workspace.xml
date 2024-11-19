@@ -5,6 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c023e27e-3bde-47d7-9fbb-0d728a30eaf2" name="Changes" comment="Hello Word">
+      <change afterPath="$PROJECT_DIR$/Python Nov_k24/ForvLoop  examples/Exit the loop when x is _ banana.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Nov_k24/ForvLoop  examples/Loop through the letters in the word _banana.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Nov_k24/ForvLoop  examples/Print each fruit in a fruit list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Nov_k24/ForvLoop  examples/Using the range() function/Using the range() function  example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Nov_k24/ForvLoop  examples/continue Statement example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Nov_k24/Functions/create a user in put  function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Nov_k24/Oprators/Arithmetic Operators.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +29,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Sandesh-Pavane&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Sandesh-Pavane/pythonProject.git&quot;,
+    &quot;accountId&quot;: &quot;be46d12d-3f95-4e0d-9a94-ba25594f4747&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -31,17 +50,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Hello Word.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Math calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Two number quotient and reminder alulation.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Exit the loop when x is _ banana.executor": "Run",
+    "Python.Hello Word.executor": "Run",
+    "Python.Loop through the letters in the word _banana.executor": "Run",
+    "Python.Math calculator.executor": "Run",
+    "Python.Print each fruit in a fruit list.executor": "Run",
+    "Python.Two number quotient and reminder alulation.executor": "Run",
+    "Python.Using the range() function  example.executor": "Run",
+    "Python.continue Statement example.executor": "Run",
+    "Python.create a user in put  function.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
-  <component name="RunManager" selected="Python.Two number quotient and reminder alulation">
-    <configuration name="Hello Word" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RunManager" selected="Python.create a user in put  function">
+    <configuration name="Exit the loop when x is _ banana" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -50,11 +75,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Nov_k24/Hello Word" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Nov_k24/ForvLoop  examples" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Nov_k24/Hello Word/Hello Word.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Nov_k24/ForvLoop  examples/Exit the loop when x is _ banana.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -63,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Math calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Loop through the letters in the word _banana" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -72,11 +97,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Nov_k24/Math Clculation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Nov_k24/ForvLoop  examples" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Nov_k24/Math Clculation/Math calculator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Nov_k24/ForvLoop  examples/Loop through the letters in the word _banana.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Two number quotient and reminder alulation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Using the range() function  example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -94,11 +119,55 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Nov_k24/Two number quotient and reminder alulation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Nov_k24/ForvLoop  examples/Using the range() function" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Nov_k24/Two number quotient and reminder alulation/Two number quotient and reminder alulation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Nov_k24/ForvLoop  examples/Using the range() function/Using the range() function  example.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="continue Statement example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Nov_k24/ForvLoop  examples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Nov_k24/ForvLoop  examples/continue Statement example.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="create a user in put  function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Nov_k24/Functions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Nov_k24/Functions/create a user in put  function.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,9 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Two number quotient and reminder alulation" />
-        <item itemvalue="Python.Math calculator" />
-        <item itemvalue="Python.Hello Word" />
+        <item itemvalue="Python.create a user in put  function" />
+        <item itemvalue="Python.Using the range() function  example" />
+        <item itemvalue="Python.continue Statement example" />
+        <item itemvalue="Python.Exit the loop when x is _ banana" />
+        <item itemvalue="Python.Loop through the letters in the word _banana" />
       </list>
     </recent_temporary>
   </component>
